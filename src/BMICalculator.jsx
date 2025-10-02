@@ -59,5 +59,4 @@ function BMICalculator() {
     </div>
   )
 }
-
 export default BMICalculator
