@@ -16,7 +16,7 @@ If Docker is installed, try running the docker conatiner instead of running the 
 
 Build a docker image from Dockerfile
 ```console
-docker build -t bmi-calculator
+docker build -t bmi-calculator .
 ```
 
 Once the image is ready, run the containerr
